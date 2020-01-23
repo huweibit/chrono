@@ -10,6 +10,7 @@ Chrono::Vehicle {#manual_vehicle}
 * @subpage wheeled_vehicle
     * @subpage wheeled_suspension
     * @subpage wheeled_steering
+    * @subpage wheeled_driveline
     * @subpage wheeled_tire
 
 * @subpage tracked_vehicle
