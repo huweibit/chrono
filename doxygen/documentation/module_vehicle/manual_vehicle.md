@@ -14,6 +14,11 @@ Chrono::Vehicle {#manual_vehicle}
     * @subpage wheeled_tire
 
 * @subpage tracked_vehicle
+    * @subpage tracked_assembly
+    * @subpage tracked_suspension
+    * @subpage tracked_sprocket
+    * @subpage tracked_idler
+    * @subpage tracked_shoe
 
 * @subpage vehicle_powertrain
 
