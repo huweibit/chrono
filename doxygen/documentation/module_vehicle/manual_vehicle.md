@@ -1,4 +1,4 @@
-Chrono::Vehicle {#manual_vehicle}
+Chrono::Vehicle Reference Manual {#manual_vehicle}
 =================================
 
 * [Install and build Chrono::Vehicle](@ref module_vehicle_installation)
@@ -26,3 +26,12 @@ Chrono::Vehicle {#manual_vehicle}
 
 * @subpage vehicle_driver
 
+* @subpage vehicle_models
+
+**Additional documentation pages**
+
+* [Chrono Reference Manual](@ref manual_root)
+	
+* [PyChrono](@ref pychrono_introduction)
+
+* [Chrono::Vehicle tutorials](@ref tutorial_table_of_content_chrono_vehicle)

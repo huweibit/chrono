@@ -1,4 +1,4 @@
-Wheeled Vehicles {#wheeled_vehicle}
+Wheeled vehicles {#wheeled_vehicle}
 ===================================
 
 A wheeled vehicle in Chrono::Vehicle is a specialization of the abstract generic vehicle system ([ChVehicle](@ref chrono::vehicle::ChVehicle)) and is defined as a collection of subsystems (as illustrated below). 

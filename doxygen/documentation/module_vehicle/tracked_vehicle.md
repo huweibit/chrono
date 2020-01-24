@@ -1,4 +1,4 @@
-Tracked Vehicles {#tracked_vehicle}
+Tracked vehicles {#tracked_vehicle}
 ===================================
 
 Similar to the wheeled vehicle, a track vehicle in Chrono::Vehicle is a specialization of the generic vehicle system and is defined as a hierarchy of subsystems, as illustrated below.
