@@ -53,6 +53,8 @@ A sample JSON file with the specification of a RackPinion steering mechanism is:
 
 ## Rotary arm {#wheeled_steering_rotary_arm}
 
+The rotary arm steering is a simple lever arm that rotates around an axis. It works with solid bellcrank axles and solid toebar axles. It is often used as steering system for trucks, farm tractors and combine harvesters.
+
 See [ChRotaryArm](@ref chrono::vehicle::ChRotaryArm) and [RotaryArm](@ref chrono::vehicle::RotaryArm).
 
 <img src="http://www.projectchrono.org/assets/manual/vehicle/wheeled/RotaryArm_bodies.png" width="600" />
