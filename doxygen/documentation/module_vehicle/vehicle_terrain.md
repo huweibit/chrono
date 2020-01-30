@@ -58,9 +58,15 @@ The CRG terrain creates a road profile (a 3D path with an associated width) from
 \include "../../data/vehicle/terrain/crg_roads/handmade_curved_minimalist.crg"
 
 The CRG terrain can be visualized as a triangular mesh (representing the road "ribbon") or else as a set of 3D Bezier curves (representing the center line and the road sides).  Other features of CRGTerrain include:
-- ability to export the road mesh (as a tringle mesh)
+- ability to export the road mesh (as a triangle mesh)
 - ability to export the center line (as a Bezier curve)
 - methods for reporting the road length and width
+
+The images below illustrate the run-time visualization of a CRG road using a triangular mesh or the road boundary curves.
+
+<img src="http://www.projectchrono.org/assets/manual/vehicle/terrain/Barber_mesh.png" width="600" />
+
+<img src="http://www.projectchrono.org/assets/manual/vehicle/terrain/Barber_curves.png" width="600" />
 
 Since the CRG terrain model currently does not carry any collision and contact information, it can only be used with the [semi-empirical tire models](@ref vehicle_tire_empirical).
 
